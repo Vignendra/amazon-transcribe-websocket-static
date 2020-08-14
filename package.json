@@ -34,6 +34,7 @@
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
+    "aws-sdk": "^2.724.0",
     "babelify": "^10.0.0"
   }
 }
